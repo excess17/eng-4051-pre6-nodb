@@ -1,0 +1,13 @@
+code: bndl710pre6nodatabase-bundle
+description: This is the bndl710pre6nodatabase bundle
+
+components:
+  plugins:
+    - plugins/bndl710pre6nodatabase-plugin.yaml
+
+  widgets:
+    - ui/widgets/d-1-point/tableWidget/d-1-point-table-widget-descriptor.yaml
+    - ui/widgets/d-1-point/detailsWidget/d-1-point-details-widget-descriptor.yaml
+    - ui/widgets/d-1-point/formWidget/d-1-point-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
